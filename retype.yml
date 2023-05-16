@@ -1,0 +1,22 @@
+input: ./
+output: .build
+url: docs.getcarbon.systems
+
+branding:
+  label: v2.4
+
+meta:
+  title: " - Carbon Systems"
+
+edit:
+  repo: github.com/carbonsystems/docs
+
+editor:
+  enabled: false
+
+links:
+  - text: Home
+    link: /README.md
+    icon: home
+footer:
+  copyright: © Copyright {{ year }} Carbon Systems. All content in this page are copyright their respective owners.
